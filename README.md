@@ -19,7 +19,7 @@ The project consists of a profile section with social media links. The layout is
 ### Links
 
 - Solution URL: [GitHub](https://github.com/boompow/social-links-profile)
-- Live Site URL: [Vercel](https://social-links-profile.vercel.app/)
+- Live Site URL: [Vercel](https://social-links-profile-bice-alpha.vercel.app/)
 
 ## Built With
 
